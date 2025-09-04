@@ -1,0 +1,171 @@
+{
+  "navbar": {
+    "home": "Home",
+    "productsLink": "Products",
+    "missionLink": "Our Mission",
+    "aboutUsLink": "About Us",
+    "qualityLink": "Quality",
+    "uspLink": "Why Us",
+    "exportDestinationLink": "Export Destinations",
+    "newsLink": "News",
+    "locationLink": "Location",
+    "articles": "Articles",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Premium Coconut Shell\nfor Global Industries",
+    "subtitle": "PT. Princess Jaya Abadi: Trusted partner for sustainably sourced coconut shell and derivatives from Indonesia—clean, consistent, export-ready.",
+    "cta": "Explore Our Coconut Shell"
+  },
+  "mission": {
+    "label": "Our Purpose",
+    "heading": "Delivering Indonesian Coconut Shell to the World",
+    "quote": "To be a leading exporter of coconut shell and its derivatives—prioritizing sustainability, reliable quality, and long-term partnerships with growers and manufacturers.",
+    "points": [
+      "Supply clean, dry coconut shell that meets international specifications.",
+      "Promote ethical sourcing and waste-to-value utilization.",
+      "Ensure consistent grading, moisture control, and on-time shipments.",
+      "Strengthen local coconut communities through fair and transparent trade."
+    ]
+  },
+  "about": {
+    "label": "Why Choose Us?",
+    "heading": "The Princess Jaya Abadi Advantage",
+    "description": "We specialize in the export of coconut shell and downstream products. From raw shell to carbonized shell for briquette and activated carbon feedstock, each batch is screened, cleaned, and documented for traceability—ensuring smooth export and dependable performance.",
+    "features": [
+      {
+        "title": "Sustainable Sourcing",
+        "description": "Collected from trusted copra and coconut processors—turning agricultural by-product into high-value materials."
+      },
+      {
+        "title": "Consistent Quality",
+        "description": "Strict control on moisture, ash, impurities, and size distribution to match buyer specifications."
+      },
+      {
+        "title": "Clean Processing",
+        "description": "Washing, drying, screening, and metal detection as required; carbonization with controlled parameters."
+      },
+      {
+        "title": "Export-Ready Documentation",
+        "description": "COO, MSDS (where applicable), test reports, and packing lists prepared in advance for customs efficiency."
+      },
+      {
+        "title": "Transparent Operations",
+        "description": "Pre-shipment inspection, photos/videos of loading, and responsive after-sales support."
+      }
+    ]
+  },
+  "product": {
+    "label": "Our Coconut Shell Products",
+    "heading": "Raw Shell, Carbonized Shell & Derivatives",
+    "description": "Versatile materials for briquette manufacturing, activated carbon production, biomass energy, filtration media, and various industrial applications. Private labeling and custom specs available upon request.",
+    "cta": "View All Products",
+    "items": [
+      {
+        "title": "Raw Coconut Shell",
+        "description": "Clean, sun/oven-dried shells with controlled moisture and minimal pith—ideal for briquette and charcoal feedstock."
+      },
+      {
+        "title": "Carbonized Coconut Shell",
+        "description": "Uniformly carbonized shell with low ash and high fixed carbon—perfect precursor for briquettes and activated carbon."
+      },
+      {
+        "title": "Granulated/Crushed Shell",
+        "description": "Screened size fractions for filtration media, abrasive applications, and composite fillers."
+      }
+    ]
+  },
+  "quality": {
+    "label": "Our Commitment to Quality",
+    "heading": "Specification-Driven, Tested, and Traceable",
+    "intro": "Quality is engineered at every step—from sourcing and pre-cleaning to drying and carbonization. We align parameters with buyer requirements to secure consistent downstream performance.",
+    "points": [
+      "Moisture, ash, volatile matter, and fixed carbon monitored per batch (for carbonized shell).",
+      "Metal and foreign matter control with screening and inspection.",
+      "Size grading tailored to briquette presses and reactor inputs.",
+      "Full batch traceability with documented QC checkpoints."
+    ],
+    "conclusion": "You receive stable, specification-matched coconut shell materials ready for industrial use and export."
+  },
+  "usp": {
+    "heading": "Why Partner with PT. Princess Jaya Abadi?",
+    "items": [
+      {
+        "title": "Export-Ready Packaging",
+        "description": "Durable PP woven bags, jumbo bags, or pallets—optimized for sea freight and safe handling.",
+        "image": "/coconut-shell-pack-1.png"
+      },
+      {
+        "title": "Tight QC & Grading",
+        "description": "Moisture control, screening, and uniform carbonization for predictable performance.",
+        "image": "/coconut-shell-qc-2.png"
+      },
+      {
+        "title": "Efficient Logistics",
+        "description": "Reliable scheduling, load planning, and container optimization for global routes.",
+        "image": "/coconut-shell-logistics-3.png"
+      },
+      {
+        "title": "Community Impact",
+        "description": "Value-add for coconut farmers and processors through circular, low-waste supply chains.",
+        "image": "/coconut-shell-community-4.png"
+      }
+    ]
+  },
+  "exportDestination": {
+    "title": "Global Reach of Our Coconut Shell",
+    "regions": "Asia, Europe, America, Middle East, Australia",
+    "paragraph1": "From Indonesia to the world, our coconut shell materials serve briquette makers, activated carbon producers, and biomass users across multiple continents.",
+    "paragraph2": "A strong logistics network and experienced export team ensure timely, efficient deliveries to Asia, Europe, America, the Middle East, and Australia."
+  },
+  "teamNews": {
+    "news": {
+      "label": "Latest Updates",
+      "heading": "News & Insights on Coconut Shell Materials",
+      "description": "Follow industry trends, specification know-how, and PJ Abadi’s milestones in carbonized shell and value-added products."
+    },
+    "team": {
+      "label": "Our Dedicated Team",
+      "heading": "Specialists Behind the Quality",
+      "description": "Meet the sourcing, production, and QA experts who keep every shipment aligned with your specs."
+    }
+  },
+  "location": {
+    "label": "Find Us Here",
+    "heading": "Head Office & Processing Hub",
+    "description": "Located in Lampung, Indonesia—close to major coconut processing centers for steady raw material flow and efficient export preparation.",
+    "ctaLabel": "Contact Us",
+    "ctaHref": "/en/#contact"
+  },
+  "cta": {
+    "heading": "Ready to Source Premium Coconut Shell?",
+    "description": "Connect with PT. Princess Jaya Abadi today. From raw shell to carbonized material and graded fractions—we support your production with consistent quality and complete export service.",
+    "button": "Contact Us via WhatsApp"
+  },
+  "footer": {
+    "shipping": "Shipping",
+    "shippingDesc": "Orders packed in PP woven/jumbo bags or pallets. Standard dispatch within 2–3 weeks after confirmation.",
+    "delivery": "Delivery",
+    "deliveryDesc": "Worldwide delivery via trusted freight forwarders with sea and, if needed, air options.",
+    "returns": "Returns",
+    "returnsDesc": "Please confirm specifications before purchase. Industrial goods returns are limited and subject to prior agreement.",
+    "social": "Social Media",
+    "support": "Customer Support",
+    "subscribe": "Stay Connected",
+    "subscribeDesc": "Subscribe for updates on coconut shell availability, specs, and market insights.",
+    "emailPlaceholder": "Your Email Address",
+    "navigation": "Navigation",
+    "navLinks": {
+      "home": "Home",
+      "products": "Products",
+      "articles": "Articles",
+      "contact": "Contact"
+    },
+    "copyright": "All rights reserved.",
+    "headline": "Let’s Talk — Chat on WhatsApp",
+    "company": "PT. Princess Jaya Abadi",
+    "email": "rangga@princessjayaabadi.com",
+    "phone": "+62 817-801-588",
+    "note": "Business hours: Mon–Fri 09:00–17:00 (WIB)"
+  }
+}

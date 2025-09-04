@@ -1,0 +1,171 @@
+{
+  "navbar": {
+    "home": "Beranda",
+    "productsLink": "Produk",
+    "missionLink": "Misi Kami",
+    "aboutUsLink": "Tentang Kami",
+    "qualityLink": "Kualitas",
+    "uspLink": "Mengapa Kami",
+    "exportDestinationLink": "Destinasi Ekspor",
+    "newsLink": "Berita",
+    "locationLink": "Lokasi",
+    "articles": "Artikel",
+    "contact": "Kontak"
+  },
+  "hero": {
+    "title": "Batok Kelapa Premium\nuntuk Industri Global",
+    "subtitle": "PT. Princess Jaya Abadi: Mitra terpercaya dalam ekspor batok kelapa dan turunannya dari Indonesia—bersih, konsisten, dan siap ekspor.",
+    "cta": "Jelajahi Produk Batok Kelapa Kami"
+  },
+  "mission": {
+    "label": "Tujuan Kami",
+    "heading": "Membawa Batok Kelapa Indonesia ke Dunia",
+    "quote": "Menjadi eksportir batok kelapa dan turunannya yang unggul—berkomitmen pada keberlanjutan, mutu yang konsisten, serta kemitraan jangka panjang dengan petani dan pengolah kelapa.",
+    "points": [
+      "Menyuplai batok kelapa kering dan bersih sesuai standar internasional.",
+      "Mendukung praktik pemanfaatan limbah menjadi produk bernilai tambah.",
+      "Menjamin sortasi, kadar air, dan mutu yang konsisten di setiap pengiriman.",
+      "Memberdayakan komunitas petani kelapa melalui perdagangan yang adil."
+    ]
+  },
+  "about": {
+    "label": "Mengapa Memilih Kami?",
+    "heading": "Keunggulan Princess Jaya Abadi",
+    "description": "Kami berfokus pada ekspor batok kelapa dan produk turunannya. Dari batok mentah hingga batok terkarbonisasi untuk bahan baku briket maupun karbon aktif, setiap batch diproses, dibersihkan, dan dilengkapi dokumen ketertelusuran untuk menjamin kualitas dan kelancaran ekspor.",
+    "features": [
+      {
+        "title": "Sumber Berkelanjutan",
+        "description": "Batok kelapa dikumpulkan dari pengolah kopra dan kelapa terpercaya—mengubah limbah pertanian menjadi produk bernilai tinggi."
+      },
+      {
+        "title": "Kualitas Konsisten",
+        "description": "Kontrol ketat terhadap kadar air, abu, kotoran, dan ukuran sesuai spesifikasi pembeli."
+      },
+      {
+        "title": "Proses Bersih",
+        "description": "Pencucian, pengeringan, sortasi, serta karbonisasi dengan parameter terkontrol untuk menjaga kualitas."
+      },
+      {
+        "title": "Dokumen Ekspor Lengkap",
+        "description": "COO, MSDS (jika diperlukan), laporan uji, dan packing list disiapkan untuk kelancaran bea cukai."
+      },
+      {
+        "title": "Transparansi",
+        "description": "Inspeksi pra-pengapalan, dokumentasi muatan, serta dukungan purnajual yang responsif."
+      }
+    ]
+  },
+  "product": {
+    "label": "Produk Batok Kelapa Kami",
+    "heading": "Batok Mentah, Terkarbonisasi & Turunannya",
+    "description": "Produk serbaguna untuk bahan baku briket, karbon aktif, energi biomassa, media filtrasi, hingga kebutuhan industri lainnya. Layanan private label dan spesifikasi khusus tersedia sesuai permintaan.",
+    "cta": "Lihat Semua Produk",
+    "items": [
+      {
+        "title": "Batok Kelapa Mentah",
+        "description": "Batok kering hasil sortasi dengan kadar air terkontrol—ideal untuk bahan baku briket dan arang."
+      },
+      {
+        "title": "Batok Kelapa Terkarbonisasi",
+        "description": "Batok hasil karbonisasi dengan kadar abu rendah dan karbon tetap tinggi—cocok untuk bahan baku briket maupun karbon aktif."
+      },
+      {
+        "title": "Batok Kelapa Granulasi",
+        "description": "Batok kelapa yang dihancurkan dan disaring sesuai ukuran—digunakan untuk media filtrasi, abrasif, dan bahan campuran industri."
+      }
+    ]
+  },
+  "quality": {
+    "label": "Komitmen Kami terhadap Kualitas",
+    "heading": "Spesifikasi Terjamin di Setiap Pengiriman",
+    "intro": "Kualitas dikendalikan di setiap tahap—mulai dari pengumpulan, pembersihan, pengeringan, hingga karbonisasi. Parameter mutu disesuaikan dengan kebutuhan pembeli.",
+    "points": [
+      "Pengawasan kadar air, abu, volatile matter, dan fixed carbon (untuk batok terkarbonisasi).",
+      "Pengendalian kotoran logam dan benda asing melalui sortasi dan inspeksi.",
+      "Grading ukuran sesuai kebutuhan mesin briket atau reaktor industri.",
+      "Dokumentasi mutu lengkap dengan ketertelusuran batch."
+    ],
+    "conclusion": "Anda menerima produk batok kelapa stabil, sesuai spesifikasi, dan siap digunakan untuk kebutuhan industri maupun ekspor."
+  },
+  "usp": {
+    "heading": "Mengapa Bermitra dengan PT. Princess Jaya Abadi?",
+    "items": [
+      {
+        "title": "Kemasan Ekspor Premium",
+        "description": "Karung PP woven, jumbo bag, atau palet—aman untuk pengiriman laut jarak jauh.",
+        "image": "/coconut-shell-pack-1.png"
+      },
+      {
+        "title": "Sortasi & QC Ketat",
+        "description": "Kontrol kadar air, karbonisasi merata, dan hasil seragam untuk kinerja yang konsisten.",
+        "image": "/coconut-shell-qc-2.png"
+      },
+      {
+        "title": "Logistik Tepat Waktu",
+        "description": "Perencanaan muatan dan rantai pasok efisien untuk pengiriman ke berbagai negara.",
+        "image": "/coconut-shell-logistics-3.png"
+      },
+      {
+        "title": "Dampak Sosial",
+        "description": "Memberikan nilai tambah bagi petani dan pengolah kelapa melalui pemanfaatan limbah menjadi produk ekspor.",
+        "image": "/coconut-shell-community-4.png"
+      }
+    ]
+  },
+  "exportDestination": {
+    "title": "Jangkauan Global Batok Kelapa Kami",
+    "regions": "Asia, Eropa, Amerika, Timur Tengah, Australia",
+    "paragraph1": "Sebagai salah satu produk unggulan Indonesia, batok kelapa kami melayani industri briket, karbon aktif, dan biomassa di berbagai benua.",
+    "paragraph2": "Jaringan logistik terpercaya dan tim ekspor berpengalaman memastikan pengiriman efisien dan tepat waktu ke Asia, Eropa, Amerika, Timur Tengah, dan Australia."
+  },
+  "teamNews": {
+    "news": {
+      "label": "Pembaruan Terbaru",
+      "heading": "Berita & Wawasan Industri Batok Kelapa",
+      "description": "Ikuti tren industri, standar spesifikasi, dan pencapaian ekspor PT. Princess Jaya Abadi dalam produk batok kelapa dan turunannya."
+    },
+    "team": {
+      "label": "Tim Kami",
+      "heading": "Profesional di Balik Mutu",
+      "description": "Kenali tim sourcing, produksi, dan QC kami yang memastikan setiap pengiriman sesuai standar internasional."
+    }
+  },
+  "location": {
+    "label": "Temukan Kami di Sini",
+    "heading": "Kantor Pusat & Pusat Produksi",
+    "description": "Berlokasi di Lampung, Indonesia—dekat dengan pusat pengolahan kelapa untuk pasokan stabil dan persiapan ekspor efisien.",
+    "ctaLabel": "Hubungi Kami",
+    "ctaHref": "/id/#contact"
+  },
+  "cta": {
+    "heading": "Siap Mengimpor Batok Kelapa Premium?",
+    "description": "Hubungi PT. Princess Jaya Abadi hari ini. Dari batok mentah hingga terkarbonisasi dan granulat—kami siap mendukung kebutuhan industri Anda dengan mutu konsisten dan layanan ekspor lengkap.",
+    "button": "Hubungi Kami via WhatsApp"
+  },
+  "footer": {
+    "shipping": "Pengiriman",
+    "shippingDesc": "Pesanan dikemas dalam karung PP woven/jumbo bag atau palet. Estimasi pengiriman 2–3 minggu setelah konfirmasi.",
+    "delivery": "Pengantaran",
+    "deliveryDesc": "Pengiriman global melalui forwarder terpercaya dengan opsi laut maupun udara.",
+    "returns": "Pengembalian",
+    "returnsDesc": "Pastikan spesifikasi produk sesuai sebelum pemesanan. Pengembalian terbatas dan hanya berdasarkan kesepakatan awal.",
+    "social": "Media Sosial",
+    "support": "Dukungan Pelanggan",
+    "subscribe": "Berlangganan",
+    "subscribeDesc": "Dapatkan informasi terbaru tentang ketersediaan batok kelapa, spesifikasi, dan tren pasar ekspor langsung ke email Anda.",
+    "emailPlaceholder": "Alamat Email Anda",
+    "navigation": "Navigasi",
+    "navLinks": {
+      "home": "Beranda",
+      "products": "Produk",
+      "articles": "Artikel",
+      "contact": "Kontak"
+    },
+    "copyright": "Semua hak dilindungi undang-undang.",
+    "headline": "Mari Bicara — Chat WhatsApp Sekarang",
+    "company": "PT. Princess Jaya Abadi",
+    "email": "rangga@princessjayaabadi.com",
+    "phone": "+62 817-801-588",
+    "note": "Jam operasional: Senin–Jumat 09.00–17.00 WIB"
+  }
+}
